@@ -1,3 +1,7 @@
+<!-- Page Views -->
+![github-views](https://komarev.com/ghpvc/?username=CEngmann91&style=flat-square&color=blue)
+[![github-follow](https://img.shields.io/github/followers/CEngmann91?label=Follow&logoColor=lightgrey&style=social)](https://github.com/CEngmann91)
+
 ### Hi there 👋
 
 <!--
