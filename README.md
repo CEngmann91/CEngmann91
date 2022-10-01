@@ -7,7 +7,7 @@
 ![github-views](https://komarev.com/ghpvc/?username=CEngmann91&style=flat-square&color=blue)
 [![github-follow](https://img.shields.io/github/followers/CEngmann91?label=Follow&logoColor=lightgrey&style=social)](https://github.com/CEngmann91)
 
-A highly intuative Full Stack Developer with a Computer Science degree who enjoys everything tech related. A well-rounded IT professional with many years of computing experience, possessing expert knowledge of the software development lifecycle, a solid understanding of technologies required to go from development to deployment and not to mention scalable applications.
+A creative Computer Scientist with a Full Stack knowledge of everything tech related. A well-rounded IT professional with many years of computing experience, possessing expert knowledge of the software development lifecycle, a solid understanding of technologies required to go from development to deployment and not to mention scalable applications.
 
 ---
 ### :hammer_and_wrench: Technologies :
