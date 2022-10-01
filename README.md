@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 ---
@@ -33,7 +33,7 @@ A creative Computer Scientist with a Full Stack knowledge of everything tech rel
 
 
 
-### :eyes: Check Out My Repo's :arrow_down:
+## :eyes: Check Out My Repo's :arrow_down:
 
 
 <!--
